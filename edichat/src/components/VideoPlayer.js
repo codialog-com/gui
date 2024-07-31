@@ -3,7 +3,12 @@ import ReactPlayer from 'react-player';
 
 const VideoPlayer = () => (
     <div style={{ flex: 1, padding: '10px', border: '1px solid #ccc' }}>
-        <ReactPlayer url='https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4' controls />
+        <ReactPlayer url='file_example_MP4_480_1_5MG.mp4'
+                     controls
+                     width='100%'
+                     height='100%'
+                     style={{top: 0, left: 0 }}
+        />
     </div>
 );
 

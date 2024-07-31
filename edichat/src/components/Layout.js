@@ -1,6 +1,6 @@
 import React from 'react';
 import Sidebar from './Sidebar';
-import PdfViewer from './PdfViewer';
+// import PdfViewer from './PdfViewer';
 import VideoPlayer from './VideoPlayer';
 import Chat from './Chat';
 import Logs from './Logs';
@@ -12,12 +12,10 @@ const Layout = () => (
         <div style={{ flex: 1, padding: '10px', display: 'flex', flexDirection: 'column' }}>
             <div style={{ flex: 1, display: 'flex' }}>
                 <VideoPlayer />
-                <PdfViewer />
+                {/*<PdfViewer />*/}
             </div>
             <div style={{ display: 'flex', height: '30%' }}>
                 <Chat />
-                <Logs />
-                <Comments />
             </div>
         </div>
     </div>
