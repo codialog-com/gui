@@ -52,7 +52,7 @@ Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cies
 
 ## v7
 
-![guiv7](https://github.com/user-attachments/assets/9bd4ac9c-106c-430d-92c2-f7bfafb33bf7)
+![guiv7](https://github.com/user-attachments/assets/851b20d0-2d33-4c5d-8be2-8b947410c144)
 
-+ [svgviewer](https://www.svgviewer.dev/s/wiJHg0RM)
++ [svgviewer](https://www.svgviewer.dev/s/nUcWTokC)
 
