@@ -7,11 +7,11 @@ Grafika SVG przedstawiająca optymalnego interfejsu użytkownika GUI, który zaw
 
 ## v1
 
-[v1](guiv1.svg)
+![v1](guiv1.svg)
 
 ## v2
 
-[v2](guiv2.svg)
+![v2](guiv2.svg)
 
 ## svgviewer
 
