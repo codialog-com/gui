@@ -5,7 +5,9 @@ Grafika SVG przedstawiająca optymalny interfejsu użytkownika GUI, który zawie
 3. Okno komunikacji głosowej/tekstowej znajduje się na dole, zaczynając się od końca panelu mediów. Przeznaczone do komunikacji człowieka z programem, komunikatów o stanie mediów, logi z operacji.
 4. Na samym dole, poniżej panelu mediów i okna komunikacji znajudje się odseparowany od lewej do prawej pasek aplikacji z logiem CoDialog i napisem napisem "MENU" oraz przyciskami [upload], [run], [edit]
 
-w Skrócie CoDialog to u niwersalna apka z wykorzystaniem dostępu do data i cloud computing oraz wirtualizacją zasobów na maszynie roboczej
+**CoDialog** to u niwersalna apka z wykorzystaniem dostępu do data i cloud computing oraz wirtualizacją zasobów na maszynie roboczej.
+Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cieszyć się zasobami i funkcjami dotychczas tam nie dostepnymi lub ograniczonymi.
+
 
 
 ## v1
