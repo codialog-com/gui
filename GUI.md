@@ -2,7 +2,7 @@ Grafika SVG przedstawiająca optymalny interfejsu użytkownika GUI, który zawie
 
 1. Panel mediów po lewej stronie rozciąga się od góry do dołu. Zawiera pliki i foldery w postaci struktury z różnych źródeł, systemów, chmur, pliki dodaje się w oknie chat 
 2. Okno Operacyjne w centrum oferuje podgląd i edycje tych plików z  panelu mediów
-3. Okno komunikacji głosowej/tekstowej znajduje się na dole, zaczynając się od końca panelu mediów. Przeznaczone do komunikacji człowieka z programem, komunikatów o stanie mediów, logi z operacji, w polu konwersacji są 3 buttony zachęty operacji do kliknięcia: [upload] [view] [edit] 
+3. Okno komunikacji głosowej/tekstowej znajduje się na dole, zaczynając się od końca panelu mediów. Przeznaczone do komunikacji człowieka z programem, komunikatów o stanie mediów, logi z operacji, w polu konwersacji są 3 buttony operacji do kliknięcia: [upload] [play] [edit] 
 4. Na samym dole, poniżej panelu mediów i okna komunikacji znajudje się odseparowany od lewej do prawej pasek aplikacji z logiem Edichat i napisem napisem "MENU" i przyciskami [upload], [view], [edit]
 
 ## v1
