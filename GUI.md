@@ -1,4 +1,4 @@
-Grafika SVG przedstawiająca optymalnego interfejsu użytkownika GUI, który zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
+Grafika SVG przedstawiająca optymalny interfejsu użytkownika GUI, który zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
 
 1. Panel mediów po lewej stronie rozciąga się od góry do dołu. Zawiera pliki i foldery w postaci struktury z różnych źródeł, systemów, chmur, pliki dodaje się w oknie chat 
 2. Okno Operacyjne w centrum oferuje podgląd i edycje tych plików z  panelu mediów
