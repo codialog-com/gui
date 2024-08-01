@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="600" width="790" fill="#eee">
+  
+  <rect stroke="#ccc" fill="" height="450" width="200" y="1" x="1"></rect>
+  <text fill="#222" font-size="12" font-family="Arial" font-weight="bold" y="20" x="10">Upload | [grid] [tree]</text>
+  <rect stroke="blue" fill="#fff" height="410" width="180" y="30" x="10"></rect>
+  
+  <text fill="#666" font-size="12" font-family="Arial" y="50" x="20">Foldery/Pliki z systemów</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="90" x="20">- Folder 1</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="110" x="30">Plik 1.1</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="130" x="30">Plik 1.2</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="150" x="20">- Folder 2</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="170" x="30">Plik 2.1</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="190" x="30">Plik 2.2</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="210" x="20">Chmura 1</text>
+  <text fill="#000" font-size="12" font-family="Arial" y="230" x="30">Plik 3.1</text>
+
+  
+  <rect stroke="#ccc" fill="" height="450" width="578" y="1" x="210"></rect>
+  <text fill="#222" font-size="12" font-family="Arial" font-weight="bold" y="20" x="220">Edit | [horizontal] [vertically] </text>
+  <rect stroke="orange" fill="#fff" height="410" width="558" y="30" x="220"></rect>
+  <text fill="#555" font-size="12" font-family="Arial" y="50" x="230">Podgląd i edycja plików</text>
+
+  
+  
+  <rect stroke="#ccc" fill="" height="100" width="200" y="460" x="1"></rect>
+  <text fill="#222" font-size="12" font-family="Arial" font-weight="bold" y="480" x="10">RUN: [play/stop] -----o----</text>
+  <rect stroke="lime" fill="#fff" height="60" width="180" y="490" x="10"></rect>
+  <text fill="#555" font-size="12" font-family="Arial" y="510" x="20">Preview</text>
+
+  
+  
+  <rect stroke="#ccc" fill="" height="100" width="578" y="460" x="210"></rect>
+  <text fill="#222" font-size="12" font-family="Arial" font-weight="bold" y="480" x="220">MESSAGES: [logs] [terminal] [chat]</text>
+  <rect stroke="red" fill="#fff" height="60" width="558" y="490" x="220"></rect>
+  <text fill="#555" font-size="12" font-family="Arial" y="510" x="230">Komunikaty, Logi, Chat</text>
+
+  
+  
+  
+  <rect stroke="#000" fill="#333" height="34" width="789" y="570" x="1"></rect>
+  <text fill="#fff" font-size="14" font-family="Arial" font-weight="bold" y="590" x="10">CoDialog</text>
+
+  
+  <rect stroke="blue" fill="#777" height="25" width="70" y="572" x="520"></rect>
+  <text fill="#fff" font-size="12" font-family="Arial" font-weight="bold" y="589" x="530">UPLOAD</text>
+  <rect stroke="green" fill="#777" height="25" width="50" y="572" x="600"></rect>
+  <text fill="#fff" font-size="12" font-family="Arial" font-weight="bold" y="589" x="614">RUN</text>
+  <rect stroke="orange" fill="#777" height="25" width="50" y="572" x="660"></rect>
+  <text fill="#fff" font-size="12" font-family="Arial" font-weight="bold" y="589" x="672">EDIT</text>  
+  <rect stroke="white" fill="#777" height="25" width="60" y="572" x="720"></rect>
+  <text fill="#fff" font-size="12" font-family="Arial" font-weight="bold" y="589" x="732">SHARE</text>
+</svg>
