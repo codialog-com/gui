@@ -1,0 +1,48 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Panel Mediow po lewej stronie -->
+  <rect x="0" y="0" width="200" height="500" fill="#f0f0f0" stroke="#ccc" />
+  <text x="10" y="20" font-family="Arial" font-size="14" fill="#333">Panel Mediów</text>
+  
+  <!-- Struktura plików i folderów -->
+  <text x="10" y="50" font-family="Arial" font-size="12" fill="#666">Foldery/Pliki z systemów</text>
+  <text x="10" y="70" font-family="Arial" font-size="12" fill="#000">- Folder 1</text>
+  <text x="20" y="90" font-family="Arial" font-size="12" fill="#000">Plik 1.1</text>
+  <text x="20" y="110" font-family="Arial" font-size="12" fill="#000">Plik 1.2</text>
+  <text x="10" y="130" font-family="Arial" font-size="12" fill="#000">- Folder 2</text>
+  <text x="20" y="150" font-family="Arial" font-size="12" fill="#000">Plik 2.1</text>
+  <text x="20" y="170" font-family="Arial" font-size="12" fill="#000">Plik 2.2</text>
+  <text x="10" y="190" font-family="Arial" font-size="12" fill="#000">Chmura 1</text>
+  <text x="20" y="210" font-family="Arial" font-size="12" fill="#000">Plik 3.1</text>
+
+  <!-- Okno Operacyjne w centrum -->
+  <rect x="210" y="0" width="580" height="500" fill="#fff" stroke="#ccc" />
+  <text x="220" y="20" font-family="Arial" font-size="14" fill="#333">Okno Operacyjne</text>
+  <rect x="220" y="40" width="560" height="450" fill="#e9e9e9" stroke="#bbb" />
+  <text x="230" y="70" font-family="Arial" font-size="12" fill="#555">Podgląd i edycja plików</text>
+
+  <!-- Okno komunikacji na dole -->
+  <rect x="0" y="510" width="780" height="60" fill="#f9f9f9" stroke="#ccc"/>
+  <text x="10" y="530" font-family="Arial" font-size="14" fill="#333">Okno Komunikacji</text>
+  <rect x="220" y="520" width="560" height="40" fill="#fff" stroke="#bbb"/>
+  <text x="230" y="540" font-family="Arial" font-size="12" fill="#555">Komunikaty, Logi</text>
+  
+  <!-- Buttony w oknie komunikacji -->
+  <rect x="790" y="520" width="60" height="30" fill="#ddd" stroke="#999" />
+  <text x="800" y="540" font-family="Arial" font-size="12" fill="#333">[upload]</text>
+  <rect x="860" y="520" width="60" height="30" fill="#ddd" stroke="#999" />
+  <text x="870" y="540" font-family="Arial" font-size="12" fill="#333">[view]</text>
+  <rect x="930" y="520" width="60" height="30" fill="#ddd" stroke="#999" />
+  <text x="940" y="540" font-family="Arial" font-size="12" fill="#333">[edit]</text>
+
+  <!-- Pasek aplikacji na samym dole -->
+  <rect x="0" y="570" width="800" height="30" fill="#333" stroke="#000" />
+  <text x="10" y="590" font-family="Arial" font-size="12" fill="#fff">Edichat - MENU</text>
+
+  <!-- Przyciski na pasku aplikacji -->
+  <rect x="660" y="570" width="40" height="30" fill="#777" stroke="#555"/>
+  <text x="670" y="590" font-family="Arial" font-size="12" fill="#fff">upload</text>
+  <rect x="710" y="570" width="40" height="30" fill="#777" stroke="#555"/>
+  <text x="720" y="590" font-family="Arial" font-size="12" fill="#fff">view</text>
+  <rect x="760" y="570" width="40" height="30" fill="#777" stroke="#555"/>
+  <text x="770" y="590" font-family="Arial" font-size="12" fill="#fff">edit</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tło -->
+  <rect width="100%" height="100%" fill="#f0f0f0" />
+
+  <!-- Pasek menu na dole -->
+  <rect x="10" y="540" width="780" height="50" fill="#333" />
+  <text x="20" y="570" font-family="Arial" font-size="20" fill="#fff">Menu Główne</text>
+
+  <!-- Przycisk Upload -->
+  <rect x="300" y="550" width="100" height="30" fill="#4caf50" rx="5" ry="5" />
+  <text x="325" y="570" font-family="Arial" font-size="14" fill="#fff">upload</text>
+
+  <!-- Przycisk View -->
+  <rect x="410" y="550" width="100" height="30" fill="#2196f3" rx="5" ry="5" />
+  <text x="435" y="570" font-family="Arial" font-size="14" fill="#fff">view</text>
+
+  <!-- Przycisk Edit -->
+  <rect x="520" y="550" width="100" height="30" fill="#ff9800" rx="5" ry="5" />
+  <text x="545" y="570" font-family="Arial" font-size="14" fill="#fff">edit</text>
+
+  <!-- Panel mediów -->
+  <rect x="10" y="10" width="200" height="520" fill="#eee" />
+  <text x="20" y="40" font-family="Arial" font-size="14" fill="#333">Panel mediów</text>
+  <text x="20" y="80" font-family="Arial" font-size="12" fill="#333">- Plik1.txt</text>
+  <text x="20" y="100" font-family="Arial" font-size="12" fill="#333">- Plik2.txt</text>
+  <text x="20" y="120" font-family="Arial" font-size="12" fill="#333">- Folder1</text>
+  <text x="40" y="140" font-family="Arial" font-size="12" fill="#333">- Plik3.txt</text>
+  <text x="20" y="160" font-family="Arial" font-size="12" fill="#333">- Chmura1</text>
+  <text x="40" y="180" font-family="Arial" font-size="12" fill="#333">- Plik4.txt</text>
+
+  <!-- Okno Operacyjne -->
+  <rect x="220" y="10" width="570" height="370" fill="#fff" stroke="#ccc" stroke-width="1" />
+  <text x="230" y="40" font-family="Arial" font-size="14" fill="#333">Okno Operacyjne</text>
+  
+  <!-- Przykładowy podgląd i edycja pliku -->
+  <rect x="230" y="60" width="550" height="80" fill="#f9f9f9" stroke="#ccc" stroke-width="1"/>
+  <text x="240" y="90" font-family="Arial" font-size="12" fill="#333">Podgląd: Plik1.txt</text>
+  <rect x="230" y="150" width="550" height="80" fill="#f9f9f9" stroke="#ccc" stroke-width="1"/>
+  <text x="240" y="180" font-family="Arial" font-size="12" fill="#333">Podgląd: Plik2.txt</text>
+  <rect x="230" y="240" width="550" height="100" fill="#f9f9f9" stroke="#ccc" stroke-width="1"/>
+  <text x="240" y="270" font-family="Arial" font-size="12" fill="#333">Edycja: Plik3.txt</text>
+
+  <!-- Okno komunikacji -->
+  <rect x="220" y="390" width="570" height="140" fill="#fff" stroke="#ccc" stroke-width="1" />
+  <text x="230" y="410" font-family="Arial" font-size="14" fill="#333">Komunikacja głosowa/tekstowa i logi</text>
+  <rect x="230" y="430" width="550" height="80" fill="#f9f9f9" stroke="#ccc" stroke-width="1"/>
+  <text x="240" y="460" font-family="Arial" font-size="12" fill="#333">Tutaj można prowadzić komunikację oraz widzieć logi operacji...</text>
+  
+</svg>
