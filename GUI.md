@@ -30,3 +30,9 @@ Grafika SVG przedstawiająca optymalny interfejsu użytkownika GUI, który zawie
 + [svgviewer](https://www.svgviewer.dev/s/inivyRMZ)
 
 
+## v5
+
+![guiv5](https://github.com/user-attachments/assets/27b2ac99-b8ef-4a89-b1d3-b92898437ef6)
+
+
++ [svgviewer](https://www.svgviewer.dev/s/IGxU0fl7)
