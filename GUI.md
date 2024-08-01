@@ -24,10 +24,11 @@ Grafika SVG przedstawiająca optymalny interfejsu użytkownika GUI, który zawie
   
 ## v4
 
-![guiv4](https://github.com/user-attachments/assets/3ed26348-f525-4ca5-9f1c-ccbbb77b6a4a)
+
+![guiv4](https://github.com/user-attachments/assets/318175f1-0bc7-4343-bae0-980ebc3a53db)
 
 
-+ [svgviewer](https://www.svgviewer.dev/s/doN6eaV9)
++ [svgviewer](https://www.svgviewer.dev/s/rSGSFLCg)
 
 
 ![obraz](https://github.com/user-attachments/assets/a972011f-ed94-4298-8d62-9a702d68714a)
