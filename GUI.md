@@ -8,14 +8,17 @@ Grafika SVG przedstawiająca optymalnego interfejsu użytkownika GUI, który zaw
 ## v1
 
 ![v1](guiv1.svg)
-
++ [svgviewer project](https://www.svgviewer.dev/s/wcaZPWIE)
+  
 ## v2
 
 ![v2](guiv2.svg)
 
++ [svgviewer project](https://www.svgviewer.dev/s/t3pke0RG)
+
 ## svgviewer
 
-[project](https://www.svgviewer.dev/s/t3pke0RG)
+
 
 ![obraz](https://github.com/user-attachments/assets/a972011f-ed94-4298-8d62-9a702d68714a)
 
