@@ -3,15 +3,15 @@ Poniżej znajduje się wersja #demo  aplikacji #CoDialog z interfejsem użytkown
 + [codialog-multi-IDE.mp4](codialog-multi-IDE.mp4)
 
 
-Aplikacja składa się z 4 okien w formie kratki, kolejno od 
+Aplikacja składa się z 4 okien w formie kratki, kolejno:
 
-1.Okno mediów (górne lewe)
++ 1.Okno mediów (górne lewe)
 
-2.Okno Edycji (górne prawe)
++ 2.Okno Edycji (górne prawe)
 
-3.Okno podglądu (dolne lewe) 
++ 3.Okno podglądu (dolne lewe) 
 
-4. Okno komunikacji  (dolne prawe)
++ 4. Okno komunikacji  (dolne prawe)
 
 
 Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na resize wielkości wszystkich okien jednocześnie, mołżiwe po naciśnijęu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
