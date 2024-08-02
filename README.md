@@ -11,7 +11,7 @@ Aplikacja składa się z 4 okien w formie kratki, kolejno:
 
 + 3.Okno podglądu (dolne lewe) 
 
-+ 4. Okno komunikacji  (dolne prawe)
++ 4.Okno komunikacji  (dolne prawe)
 
 
 Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na resize wielkości wszystkich okien jednocześnie, mołżiwe po naciśnijęu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
