@@ -1,9 +1,14 @@
 Grafika SVG przedstawiająca optymalny interfejsu użytkownika GUI, który zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
+Aplikacja jest napisana za pomocą React
+Aplikacji składa się z 4 okien w formie kratki, kolejno od lewej górnej 1.Okno mediów, po prawej 2.Okno Edycji, od lewego dołu 3.Okno podglądu, 4. Okno komunikacji
+Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na resize wielkości wszystkich okien jednocześnie, mołżiwe po naciśnijęu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
 
-1. Panel mediów po lewej stronie rozciąga się od góry do dołu. Zawiera pliki i foldery w postaci struktury z różnych źródeł, systemów, chmur, pliki dodaje się w oknie chat 
-2. Okno Operacyjne w centrum oferuje podgląd i edycje tych plików z  panelu mediów
-3. Okno komunikacji głosowej/tekstowej znajduje się na dole, zaczynając się od końca panelu mediów. Przeznaczone do komunikacji człowieka z programem, komunikatów o stanie mediów, logi z operacji.
-4. Na samym dole, poniżej panelu mediów i okna komunikacji znajudje się odseparowany od lewej do prawej pasek aplikacji z logiem CoDialog i napisem napisem "MENU" oraz przyciskami [upload], [run], [edit]
+1. Okno mediów po lewej stronie rozciąga się od góry do dołu. Zawiera pliki i foldery w postaci struktury z różnych źródeł, systemów, chmur, pliki dodaje się w oknie chat 
+2. Okno Edycji zaznaczonego pliku z okna mediów
+3. Okno podglądu mediów zaznaczonych w oknie mediów
+4. Okno komunikacji głosowej/tekstowej znajduje się na dole, zaczynając się od końca oknie mediów. Przeznaczone do komunikacji człowieka z programem, komunikatów o stanie mediów, logi z operacji.
+
+5. Na samym dole, poniżej okna podglądu i okna komunikacji znajudje się odseparowany od dołu, od lewej do prawej pasek aplikacji z logiem CoDialog i napisem napisem "CoDialog" oraz przyciskami [upload], [run], [edit]
 
 **CoDialog** to u niwersalna apka z wykorzystaniem dostępu do data i cloud computing oraz wirtualizacją zasobów na maszynie roboczej.
 Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cieszyć się zasobami i funkcjami dotychczas tam nie dostepnymi lub ograniczonymi.
