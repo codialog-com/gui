@@ -17,8 +17,8 @@ Aplikacja składa się z 4 okien w formie kratki, kolejno:
 + 4.Okno komunikacji  (dolne prawe)
 
 
-Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na resize wielkości wszystkich okien jednocześnie, mołżiwe po naciśnijęu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
 
+Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na resize wielkości wszystkich okien jednocześnie, możliwe po najechaniu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
 
 Na samym dole, poniżej okna podglądu i okna komunikacji znajudje się odseparowany od dołu, od lewej do prawej pasek aplikacji z logiem CoDialog i napisem napisem "CoDialog" oraz przyciskami [upload], [run], [edit]
 
