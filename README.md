@@ -34,6 +34,18 @@ CoDialog to uniwersalne narzędzie z wykorzystaniem dostępu do data i cloud com
 
 ---
 
+## historia powstania
+
+
+Rozmawialiśmy z kolegą o biotechnologi, zrozumiałem jak wiele trzeba się nauczyć i jak wiele aplikacji i formatów danych używać
+To mnie zdeterminowało do przemyślenia sposobu interakcji i przyśpieszenia prac nad różnymi projektami poprzez interfejs, pomyślałem, że:
++ trzeba zuniifkiwować interfejs, bo inaczej biotechnologia i biokomputery pozostaną w kręgu nielicznych
+to dlatego AI (chatgpt) LLMy i python są popularne bo mają niski próg wejścia od strony interfejsu ...
+
+
+
+## Wcześniejsze wersje makiety
+
 Grafika SVG przedstawiająca optymalny interfejsu użytkownika GUI, który zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
 Aplikacja jest napisana za pomocą React
 Aplikacji składa się z 4 okien w formie kratki, kolejno od lewej górnej 1.Okno mediów, po prawej 2.Okno Edycji, od lewego dołu 3.Okno podglądu, 4. Okno komunikacji
