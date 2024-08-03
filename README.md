@@ -109,3 +109,9 @@ Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cies
 
 + [svgviewer](https://www.svgviewer.dev/s/nUcWTokC)
 
+
+## v8
+
+![guiv8.png](guiv8.png)
+
++ [svgviewer](https://www.svgviewer.dev/s/HwgFXEsU)
