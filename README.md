@@ -1,15 +1,24 @@
 
 ![Screenshot from 2024-08-01 10-55-59](https://github.com/user-attachments/assets/577bfe0a-ffb4-43ad-8e73-7e3cf3459c58)
 
+## Demo
+
 Poniżej znajduje się wersja #demo  aplikacji #CoDialog z interfejsem użytkownika 
 
+### v1
 + [codialog-multi-IDE.mp4](codialog-multi-IDE.mp4)
+
+### v2
++ [codialog-multi-IDE.mp4](codialog-multi-IDE-v2.mp4)
+
 
 Poniżej znajduje się #demo aplikacji  #CoDialog na tablet 
 
 + [codialog-gui-tablet.mp4](codialog-gui-tablet.mp4)
 
 
+
+## GUI
 
 #GUI zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
 
