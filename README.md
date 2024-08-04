@@ -17,8 +17,21 @@ Poniżej znajduje się #demo aplikacji  #CoDialog na tablet
 + [codialog-gui-tablet.mp4](codialog-gui-tablet.mp4)
 
 
+## Filozofia
 
-## GUI
+To GUI jest unikalne z kilku względów:
++ działa tak samo na każdej platformie i przeglądarce
++ intuicyjny i minimalistyczny interfejs
++ Dopasowane do każdego typu aplikacji na poziomie protokołu i API
+
+## Możliwości użycia
+
+Od edytora po zarządzanie, administrację, development, monitoring, ...
+
++ jedna z implementacji, [cameraMonit](http://app.cameramonit.com) służy do podglądu widoku z kamer video online poprzez protokół Video Stream RTSMP
+
+
+## Opis GUI
 
 #GUI zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
 
