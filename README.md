@@ -3,13 +3,10 @@
 
 ## Demo
 
-Poniżej znajduje się wersja #demo interfejsu dla aplikacji #CoDialog
+Poniżej znajdują się kolejne implementacje interfejsu dla aplikacji #CoDialog
 
-### v1
 + [codialog-multi-IDE.mp4](codialog-multi-IDE.mp4)
-
-### v2
-+ [codialog-multi-IDE.mp4](codialog-multi-IDE-v2.mp4)
++ [codialog-multi-IDE-v2.mp4](codialog-multi-IDE-v2.mp4)
 
 
 Poniżej znajduje się #demo aplikacji  #CoDialog na tablet 
