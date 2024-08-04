@@ -1,5 +1,6 @@
-
 ![Screenshot from 2024-08-01 10-55-59](https://github.com/user-attachments/assets/577bfe0a-ffb4-43ad-8e73-7e3cf3459c58)
+
+# [CoDialog - mesh collaboration](http://gui.codialog.com)
 
 ## Demo
 
