@@ -19,7 +19,11 @@ Poniżej znajduje się #demo aplikacji  #CoDialog na tablet
 To GUI jest unikalne z kilku względów:
 + działa tak samo na każdej platformie i przeglądarce
 + intuicyjny i minimalistyczny interfejs
-+ Dopasowane do każdego typu aplikacji na poziomie protokołu i API
++ użytkownik definiuje własne konfigruacje interfejsów
++ mechanizm sesji pozwala na jednoczesną pracę na wielu urządzeniach jednocześnie
++ dopasowane do każdego typu aplikacji na poziomie protokołu i API
++ demonstracyjna wersja działa w oparciu o docker compose z konfiguracją usług
+ 
 
 ## Możliwości użycia
 
