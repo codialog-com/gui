@@ -3,7 +3,7 @@
 
 ## Demo
 
-Poniżej znajduje się wersja #demo  aplikacji #CoDialog z interfejsem użytkownika 
+Poniżej znajduje się wersja #demo interfejsu dla aplikacji #CoDialog
 
 ### v1
 + [codialog-multi-IDE.mp4](codialog-multi-IDE.mp4)
