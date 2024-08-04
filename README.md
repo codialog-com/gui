@@ -67,13 +67,13 @@ Aplikacja składa się z 4 okien w formie kratki, kolejno:
 
 
 
-### Przycisk **CoPoint** i menu doboru okien
+### Przycisk **CoPoint** i menu doboru okien **CoWindow**
 
 Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na zmianę wielkości wszystkich okien jednocześnie, możliwe po najechaniu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
 
-### Pasek główny aplikacji, menu **CoBar**
+### Pasek główny aplikacji, menu **CoPanel**
 
-Na samym dole, poniżej okna podglądu i okna komunikacji znajudje się odseparowany od dołu, od lewej do prawej pasek aplikacji **CoBar** z logiem CoDialog i napisem napisem "CoDialog" oraz przyciskami [upload], [run], [edit]
+Na samym dole, poniżej okna podglądu i okna komunikacji znajudje się odseparowany od dołu, od lewej do prawej pasek aplikacji **CoPanel** z logiem CoDialog i napisem napisem "CoDialog" oraz przyciskami [upload], [run], [edit]
 
 
 
