@@ -25,9 +25,25 @@ To GUI jest unikalne z kilku względów:
 + demonstracyjna wersja działa w oparciu o docker compose z konfiguracją usług
  
 
+## Historia powstania
+
+Gdy rozmawialiśmy z kolegą o biotechnologi, zrozumiałem jak wiele trzeba się nauczyć i jak wiele aplikacji i formatów danych używać.
+Ta perspektywa zdeterminowała mnie do przemyślenia sposobu interakcji w celu przyśpieszenia prac nad różnymi projektami poprzez interfejs.
+Zdefiniowałem kilka kluczowych cech jakie powinien posiadać taki interfejs:
++ lekki
++ elastyczny
++ skupiony na treści
++ ułatwiający przełączanie zestawów okien 
++ dystrybujący aplikacje bezpośrednio na poziomie definicji **URI** jak w **Apache Camel** dla API i protokołów
+
+
 ## Możliwości użycia
 
-Od edytora po zarządzanie, administrację, development, monitoring, ...
+Od edytora po zarządzanie, administrację, development, monitoring, kompleksowe projekty biotechnologiczne ...
+CoDialog to uniwersalne narzędzie z wykorzystaniem dostępu do data i cloud computing oraz wirtualizacją zasobów na maszynie roboczej.
+Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cieszyć się zasobami i funkcjami dotychczas tam nie dostepnymi lub ograniczonymi.
+
+to dlatego AI (chatgpt) LLMy i python są popularne bo mają niski próg wejścia od strony interfejsu ...
 
 + jedna z implementacji, [cameraMonit](http://app.cameramonit.com) służy do podglądu widoku z kamer video online poprzez protokół Video Stream RTSMP
 
@@ -35,6 +51,8 @@ Od edytora po zarządzanie, administrację, development, monitoring, ...
 ## Opis GUI
 
 #GUI zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
+
+### Okna
 
 Aplikacja składa się z 4 okien w formie kratki, kolejno:
 
@@ -48,22 +66,18 @@ Aplikacja składa się z 4 okien w formie kratki, kolejno:
 
 
 
-Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na resize wielkości wszystkich okien jednocześnie, możliwe po najechaniu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
+### Przycisk **CoPoint** i menu doboru okien
 
-Na samym dole, poniżej okna podglądu i okna komunikacji znajudje się odseparowany od dołu, od lewej do prawej pasek aplikacji z logiem CoDialog i napisem napisem "CoDialog" oraz przyciskami [upload], [run], [edit]
+Na skrzyżowaniu wszystkich okien znajduje się przycisk pozwalający na zmianę wielkości wszystkich okien jednocześnie, możliwe po najechaniu i przytrzymaniu przycisku możliwe jest przesunięcie centrum zbiegania się wszystkich okien.
+
+### Pasek główny aplikacji, menu **CoBar**
+
+Na samym dole, poniżej okna podglądu i okna komunikacji znajudje się odseparowany od dołu, od lewej do prawej pasek aplikacji **CoBar** z logiem CoDialog i napisem napisem "CoDialog" oraz przyciskami [upload], [run], [edit]
 
 
-CoDialog to uniwersalne narzędzie z wykorzystaniem dostępu do data i cloud computing oraz wirtualizacją zasobów na maszynie roboczej. Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cieszyć się zasobami i funkcjami dotychczas tam nie dostepnymi lub ograniczonymi.
+
 
 ---
-
-## historia powstania
-
-
-Rozmawialiśmy z kolegą o biotechnologi, zrozumiałem jak wiele trzeba się nauczyć i jak wiele aplikacji i formatów danych używać
-To mnie zdeterminowało do przemyślenia sposobu interakcji i przyśpieszenia prac nad różnymi projektami poprzez interfejs, pomyślałem, że:
-+ trzeba zuniifkiwować interfejs, bo inaczej biotechnologia i biokomputery pozostaną w kręgu nielicznych
-to dlatego AI (chatgpt) LLMy i python są popularne bo mają niski próg wejścia od strony interfejsu ...
 
 
 
