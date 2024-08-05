@@ -48,6 +48,8 @@ to dlatego AI (chatgpt) LLMy i python są popularne bo mają niski próg wejści
 
 + jedna z implementacji, [cameraMonit](http://app.cameramonit.com) służy do monitoringu kamer w oknach GUI codialog z chatem do pytania kamer o zdarzenia z ostatnich 24 godzin, kamery IP korzystają z protokołu RTSMP, który jest również obsługiwany przez rozszerzenia GUI CoDialog.
 
++ [Jupyter and tensorboard in tmux and ssh | by Fabio M. Graetz | Towards Data Science](https://towardsdatascience.com/jupyter-and-tensorboard-in-tmux-5e5d202a4fb6)
+
 
 ## Opis GUI
 
