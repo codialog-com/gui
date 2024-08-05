@@ -46,7 +46,7 @@ Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cies
 
 to dlatego AI (chatgpt) LLMy i python są popularne bo mają niski próg wejścia od strony interfejsu ...
 
-+ jedna z implementacji, [cameraMonit](http://app.cameramonit.com) służy do podglądu widoku z kamer video online poprzez protokół Video Stream RTSMP
++ jedna z implementacji, [cameraMonit](http://app.cameramonit.com) służy do monitoringu kamer w oknach GUI codialog z chatem do pytania kamer o zdarzenia z ostatnich 24 godzin, kamery IP korzystają z protokołu RTSMP, który jest również obsługiwany przez rozszerzenia GUI CoDialog.
 
 
 ## Opis GUI
