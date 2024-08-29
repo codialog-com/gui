@@ -15,27 +15,56 @@ Poniżej znajduje się #demo aplikacji  #CoDialog na tablet
 + [codialog-gui-tablet.mp4](codialog-gui-tablet.mp4)
 
 
-## Filozofia
 
-To GUI jest unikalne z kilku względów:
-+ działa tak samo na każdej platformie i przeglądarce
-+ intuicyjny i minimalistyczny interfejs
-+ użytkownik definiuje własne zestawy okien do różnych celów w oparciu o własne usługi
-+ mechanizm sesji pozwala na jednoczesną pracę na wielu urządzeniach jednocześnie
-+ dopasowane do każdego typu aplikacji na poziomie protokołu i API
-+ demonstracyjna wersja działa w oparciu o docker compose z konfiguracją usług
- 
+CoDialog to kompleksowe rozwiązanie GUI, które łączy w sobie funkcje edytora, zarządzania, administracji, developmentu, monitoringu i obsługi projektów biotechnologicznych. 
+Dzięki wykorzystaniu dostępu do danych, cloud computingu oraz wirtualizacji zasobów na maszynie roboczej, CoDialog oferuje uniwersalne narzędzie dostosowane do różnorodnych potrzeb użytkowników.
 
 ## Historia powstania
 
 Gdy rozmawialiśmy z kolegą o biotechnologi, zrozumiałem jak wiele trzeba się nauczyć i jak wiele aplikacji i formatów danych używać.
 Ta perspektywa zdeterminowała mnie do przemyślenia sposobu interakcji w celu przyśpieszenia prac nad różnymi projektami poprzez interfejs.
+
+## Wytyczne
+
 Zdefiniowałem kilka kluczowych cech jakie powinien posiadać taki interfejs:
 + lekki
 + elastyczny
 + skupiony na treści
 + ułatwiający przełączanie zestawów okien 
 + dystrybujący aplikacje bezpośrednio na poziomie definicji **URI** jak w **Apache Camel** dla API i protokołów
+
+
+## Cechy
+
+CoDialog łączy w sobie zaawansowane funkcje i intuicyjny interfejs.
+Dzięki uniwersalności, personalizacji i mechanizmowi sesji, CoDialog umożliwia efektywną pracę w różnych środowiskach i na wielu urządzeniach jednocześnie. Demonstracyjna wersja oparta na docker compose ułatwia testowanie i wdrażanie, otwierając nowe możliwości w świecie GUI i aplikacji.
+
+
+1. **Uniwersalność platformy**: CoDialog działa tak samo na każdej platformie i przeglądarce, zapewniając jednolite doświadczenie użytkownika niezależnie od urządzenia.
+
+2. **Intuicyjny i minimalistyczny interfejs**: Interfejs CoDialog jest zaprojektowany z myślą o łatwości obsługi i przejrzystości, ułatwiając użytkownikom szybkie przyswojenie funkcji.
+
+3. **Personalizacja interfejsu**: Użytkownicy mogą definiować własne zestawy okien dostosowane do różnych celów, opierając się na własnych usługach i preferencjach.
+
+4. **Mechanizm sesji**: Funkcja sesji umożliwia jednoczesną pracę na wielu urządzeniach, zapewniając ciągłość pracy i dostęp do danych z dowolnego miejsca.
+
+5. **Dopasowanie do aplikacji**: CoDialog jest dostosowany do każdego typu aplikacji na poziomie protokołu i API, zapewniając płynną integrację z istniejącymi systemami.
+
+6. **Wersja demonstracyjna**: Demonstracyjna wersja CoDialog działa w oparciu o docker compose z konfiguracją usług, umożliwiając łatwe testowanie i wdrażanie.
+
+
+## Zastosowania
+
+- Edycja i tworzenie dokumentów
+- Zarządzanie projektami
+- Administracja systemami
+- Development aplikacji
+- Monitoring i analiza danych
+- Projekty biotechnologiczne
+
+
+
+
 
 
 ## Możliwości użycia
