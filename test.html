@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>CoDialog GUI</title>
+    <style>
+        body { margin: 0; padding: 0; }
+        svg { width: 100%; height: 100vh; }
+    </style>
+</head>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+    <!-- Okna -->
+    <rect id="mediaWindow" x="50" y="50" width="300" height="250" fill="#E0E0E0"/>
+    <rect id="editWindow" x="400" y="50" width="300" height="250" fill="#E0E0E0"/>
+    <rect id="previewWindow" x="50" y="350" width="300" height="200" fill="#E0E0E0"/>
+    <rect id="communicationWindow" x="400" y="350" width="300" height="200" fill="#E0E0E0"/>
+
+    <!-- Przycisk CoPoint -->
+    <circle id="coPoint" cx="375" cy="275" r="20" fill="#007bff" cursor="move"/>
+
+    <!-- Pasek CoPanel -->
+    <rect id="coPanel" x="50" y="570" width="700" height="30" fill="#007bff"/>
+    
+    <!-- Logo i napis CoDialog -->
+    <text id="logoText" x="60" y="590" font-size="16" fill="#ffffff">CoDialog</text>
+    
+    <!-- Przyciski CoPanel -->
+    <rect id="uploadButton" x="550" y="575" width="60" height="20" fill="#ffffff"/>
+    <text id="uploadButtonText" x="560" y="590" font-size="12" fill="#000000">Upload</text>
+    
+    <rect id="runButton" x="620" y="575" width="40" height="20" fill="#ffffff"/>
+    <text id="runButtonText" x="625" y="590" font-size="12" fill="#000000">Run</text>
+    
+    <rect id="editButton" x="670" y="575" width="50" height="20" fill="#ffffff"/>
+    <text id="editButtonText" x="675" y="590" font-size="12" fill="#000000">Edit</text>
+</svg>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Akcja na przycisku Upload
+    document.getElementById("uploadButton").addEventListener('click', function() {
+        alert("Przycisk Upload został kliknięty");
+    });
+
+    // Akcja na przycisku Run
+    document.getElementById("runButton").addEventListener('click', function() {
+        alert("Przycisk Run został kliknięty");
+    });
+
+    // Akcja na przycisku Edit
+    document.getElementById("editButton").addEventListener('click', function() {
+        alert("Przycisk Edit został kliknięty");
+    });
+
+    // Akcja na przycisku CoPoint
+    document.getElementById("coPoint").addEventListener('click', function() {
+        alert("Przycisk CoPoint został kliknięty");
+    });
+
+    // Akcja na oknie mediów
+    document.getElementById("mediaWindow").addEventListener('click', function() {
+        alert("Okno mediów zostało kliknięte");
+    });
+
+    // Akcja na oknie edycji
+    document.getElementById("editWindow").addEventListener('click', function() {
+        alert("Okno edycji zostało kliknięte");
+    });
+
+    // Akcja na oknie podglądu
+    document.getElementById("previewWindow").addEventListener('click', function() {
+        alert("Okno podglądu zostało kliknięte");
+    });
+
+    // Akcja na oknie komunikacji
+    document.getElementById("communicationWindow").addEventListener('click', function() {
+        alert("Okno komunikacji zostało kliknięte");
+    });
+});
+</script>
+</body>
+</html>
